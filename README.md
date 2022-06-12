@@ -4,7 +4,11 @@ Code for our paper:
 
 ## Quick Links
 
-
+- [How to Install](#1-how-to-install)
+- [Description of Codes](#2-description-of-codes)
+- [Data](#3-data)
+- [How to Run](#4-how-to-run)
+- [Results, Outputs, Checkpoints](#5-results-outputs-checkpoints)
 
 ## 1. How to Install
 
@@ -83,7 +87,7 @@ python cal_rouge.py --ref ./arxiv/test.target --hyp ./result/arxiv/test.out.toke
 python cal_rouge.py --ref ./arxiv/test.target.tokenized --hyp ./result/arxiv/test.out.tokenized -l -p
 ```
 
-## 5. Results
+## 5. Results, Outputs, Checkpoints
 
 ### arXiv
 |          | ROUGE-1 | ROUGE-2 | ROUGE-L |

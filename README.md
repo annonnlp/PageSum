@@ -1,6 +1,4 @@
 # PageSum
-Code for our paper:
-"Leveraging Locality in Abstractive Text Summarization"
 
 ## Quick Links
 
